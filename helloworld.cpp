@@ -12,6 +12,7 @@ int main() {
     
     cout << "hello world!";
     // edit something
+    cout << "xin chao cac ban!";
     
     return 0;
 }
