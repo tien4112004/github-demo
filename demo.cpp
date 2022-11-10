@@ -11,7 +11,7 @@ int main() {
     cin.tie(NULL); cout.tie(NULL);
     
     cout << "Branch demo";
-    // conflict 1
+    cout << "conflict 1";
     
     return 0;
 }
