@@ -11,6 +11,7 @@ int main() {
     cin.tie(NULL); cout.tie(NULL);
     
     cout << "Branch demo";
+    cout << "\nPull Request demo";
     
     return 0;
 }
